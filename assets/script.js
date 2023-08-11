@@ -4,7 +4,7 @@ function generatePassword() {
   var alphabet = "qwertyuiopasdfghjklzxcvbnm";
   var numbers = "0123456789";
   var specialCharacters = "!@#$%^&*()~`,./><?;':[]{}-=_+";
-// +window.promp feature allows us to convert strings into integers Link: https://stackoverflow.com/questions/38011247/prompt-vs-prompt-in-javascript
+  // +window.promp feature allows us to convert strings into integers Link: https://stackoverflow.com/questions/38011247/prompt-vs-prompt-in-javascript
   var passwordLength = +window.prompt(
     "How many characters do you want your password to be (8-128)"
   );
