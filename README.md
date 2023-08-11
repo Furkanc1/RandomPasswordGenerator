@@ -29,7 +29,8 @@ COMPLETED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 WHEN I answer each prompt
 THEN my input should be validated and at least one character type should be selected
 
-If less than 8 or more than 128 characters are selected the "Generated Password" box instead writes 'ERROR' and the prompt comes up explaining what your issue is, However for the specific number of characters required Im not sure how to make it so that it will give you an error if you dont choose atleast 1 
+If less than 8 or more than 128 characters are selected the "Generated Password" box instead writes 'ERROR' and the prompt comes up explaining what your issue is, However for the specific number of characters required Im not sure how to make it so that it will give you an 
+error if you dont choose atleast 1 
 
 BUT, for the most part COMPLETED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
